@@ -18,6 +18,7 @@ body{
 }
 .logo{
     max-width: 600px;
-    -webkit-region-fragment: remove;
+    margin: 100%;
     
+
 }
