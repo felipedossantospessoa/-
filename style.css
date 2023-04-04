@@ -19,9 +19,17 @@ body{
 }
 .logo{
     max-width: 300px;
-    width: 100px;
+    width: 400px;
 
 
 
 
+}
+
+main{
+    background-color: black;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    
 }
