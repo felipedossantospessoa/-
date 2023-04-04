@@ -10,7 +10,8 @@ text-decoration: none;
 
 }
 
-.cabecalho {
+.cabecalho-imagens{
 display: flex;
 flex-direction: row;
+
 }
