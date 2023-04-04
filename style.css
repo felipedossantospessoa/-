@@ -10,3 +10,8 @@ body{
     background-size: cover;
 
 }
+
+#dov{
+    display: flex;
+    justify-content: center;
+}
