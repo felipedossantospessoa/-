@@ -1,5 +1,5 @@
 *{
-margin: 0;
+margin: 4px;
 padding: 0;
 box-sizing: border-box;
 text-decoration: none;
@@ -29,8 +29,32 @@ gap: 50px;
 font-size: 23px;
 color: white;
 }
+.cabecalho-1-1:hover {
+background-color: blue;
+}
+.cabecalho-1-2:hover {
+    background-color: olivedrab;
+}
+.cabecalho-1-3:hover {
+    background-color: red;
+}
 .conteudo {
 color: white;
 font-size: 15px;
 border-top: 0.4px solid #fff; 
+}
+
+.conteudo-nomes {
+font-size: 18px;
+gap: 5px;
+}
+
+.rodape {
+    padding: 32px;
+    border-top: 0.4px solid white;
+}
+
+.conteudo-titulo {
+    display: block;
+    margin: 0 auto;
 }
