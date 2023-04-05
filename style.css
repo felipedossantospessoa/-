@@ -4,14 +4,33 @@ padding: 0;
 box-sizing: border-box;
 text-decoration: none;
 }
-.body{
-    font-size: 100%;
-    background:linear-gradient(black, #fff)
+body {
+font-size: 100%;
+background-color: black;
+}
+
+.cabecalho {
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+padding: 24px;
 
 }
 
-.cabecalho-imagens{
-display: flex;
-flex-direction: row;
+.cabecalho-imagens {
+height: 120px;
 
+}
+
+.cabecalho-1 {
+display: flex;
+gap: 50px;
+font-size: 23px;
+color: white;
+}
+.conteudo {
+color: white;
+font-size: 15px;
+border-top: 0.4px solid #fff; 
 }
