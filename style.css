@@ -38,17 +38,18 @@ bottom: auto;
 background-color: rgba(250, 241, 241, 0.149);
 border-radius: 40px;
 box-shadow: 3px 5px 3px rgb(16, 196, 0);
-border: 1px solid white;
+border: 1px solid rgb(16, 196, 0);
 }
 .cabecalho-1-2:hover {
 background-color: rgba(250, 241, 241, 0.149);
 border-radius: 40px;
 box-shadow: 3px 5px 3px rgb(255, 69, 143);
-border: 1px solid white;
+border: 1px solid rgb(255, 69, 143);
 }
 .cabecalho-1-3:hover {
 background-color: rgba(250, 241, 241, 0.149);
 border-radius: 40px;
+box-shadow: 3px 5px 3px white;
 border: 1px solid white;
 }
 .conteudo {
