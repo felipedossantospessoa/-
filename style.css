@@ -36,12 +36,20 @@ bottom: auto;
 }
 .cabecalho-1-1:hover {
 background-color: rgba(250, 241, 241, 0.149);
+border-radius: 40px;
+box-shadow: 1px 2px 1px rgb(16, 196, 0);
+border: 1px solid white;
 }
 .cabecalho-1-2:hover {
 background-color: rgba(250, 241, 241, 0.149);
+border-radius: 40px;
+box-shadow: 1px 2px 1px rgb(255, 69, 143);
+border: 1px solid white;
 }
 .cabecalho-1-3:hover {
 background-color: rgba(250, 241, 241, 0.149);
+border-radius: 40px;
+border: 1px solid white;
 }
 .conteudo {
 color: white;
