@@ -30,13 +30,13 @@ font-size: 23px;
 color: white;
 }
 .cabecalho-1-1:hover {
-background-color: whitesmoke;
+background-color: rgba(250, 241, 241, 0.149);
 }
 .cabecalho-1-2:hover {
-    background-color: whitesmoke;
+background-color: rgba(250, 241, 241, 0.149);
 }
 .cabecalho-1-3:hover {
-    background-color: whitesmoke;
+background-color: rgba(250, 241, 241, 0.149);
 }
 .conteudo {
 color: white;
