@@ -20,13 +20,16 @@ padding: 24px;
 
 .cabecalho-imagens {
 height: 80px;
-
+display: flex;
+justify-content: center;
+width: 60%;
+height: 100px;
 }
 
 .cabecalho-1 {
 display: flex;
-gap: 30px;
-font-size: 23px;
+gap: 10px;
+font-size: 15px;
 color: white;
 bottom: auto;
 }
