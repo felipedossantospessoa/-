@@ -1,5 +1,5 @@
 *{
-margin: 4px;
+margin: 2px;
 padding: 0;
 box-sizing: border-box;
 text-decoration: none;
@@ -13,15 +13,15 @@ background-color: black;
 display: flex;
 flex-direction: row;
 align-items: center;
-justify-content: space-around;
-padding: 24px;
+justify-content: flex-end;
+padding: 23px;
 
 }
 
 .cabecalho-imagens {
 display: flex;
-justify-content: right;
-width: 250px;
+justify-content: center;
+width: 500px;
 height: 100px;
 padding: 0;
 
@@ -30,7 +30,7 @@ padding: 0;
 .cabecalho-1 {
 display: flex;
 gap: 5px;
-font-size: 7px;
+font-size: 13px;
 color: white;
 bottom: auto;
 }
