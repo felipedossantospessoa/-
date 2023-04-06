@@ -7,9 +7,10 @@ text-decoration: none;
 
 
 
-
-
-
+p {
+color:green;
+font-style: var();
+}
 
 
 
