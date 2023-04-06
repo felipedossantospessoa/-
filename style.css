@@ -6,6 +6,23 @@ text-decoration: none;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and  (max-width: 768px) {}
 
 .search-button {
@@ -52,26 +69,11 @@ align-items: center;
 height: 20px;
 padding: 10px;
 right: 50%;
-left: 50%;
+left: 60%;
 top: 25%;
 font-size: 20px;
 
 }
-
-
-
-.ganhador-1 {
-    color: red;
-}
-
-
-
-
-
-
-
-
-
 body {
 font-size: 100%;
 background: black;
