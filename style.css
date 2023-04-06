@@ -66,11 +66,14 @@ color: white;
 font-size: 15px;
 border-top: 0.4px solid #fff; 
 padding: 0;;
+margin: 20px;
 }
 
 .conteudo-nomes {
 font-size: 18px;
 gap: 5px;
+margin-top: 10px;
+
 }
 
 .rodape {
