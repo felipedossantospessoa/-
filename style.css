@@ -58,6 +58,20 @@ font-size: 20px;
 
 }
 
+
+
+.ganhador-1 {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
 body {
 font-size: 100%;
 background: black;
@@ -73,7 +87,7 @@ align-items: center;
 justify-content: flex-end;
 padding: 0;
 height: 140px;
-margin: 20px;
+margin: 5px;
 
 }
 
@@ -89,7 +103,7 @@ margin-top: 10px;
 
 .cabecalho-1 {
 display: flex;
-gap: 35px;
+gap: 10px;
 font-size: 9px;
 color: white;
 bottom: auto;
