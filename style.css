@@ -19,11 +19,10 @@ padding: 24px;
 }
 
 .cabecalho-imagens {
-height: 80px;
 display: flex;
 justify-content: center;
-width: 60%;
-height: 100px;
+width: 80%;
+height: 120px;
 }
 
 .cabecalho-1 {
