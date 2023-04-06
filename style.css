@@ -11,7 +11,7 @@ background-color: black;
 
 .cabecalho {
 display: flex;
-flex-direction: row;
+flex-direction: column;
 align-items: center;
 justify-content: flex-end;
 padding: 0px;
@@ -22,16 +22,16 @@ height: 250px;
 .cabecalho-imagens {
 display: flex;
 justify-content: center;
-width: 250px;
-height: 100px;
+width: 400px;
+height: 150px;
 padding: 0;
 
 }
 
 .cabecalho-1 {
 display: flex;
-gap: 3px;
-font-size: 7px;
+gap: 10px;
+font-size: 15px;
 color: white;
 bottom: auto;
 }
