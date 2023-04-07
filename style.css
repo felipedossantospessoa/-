@@ -158,14 +158,14 @@ display: block;
 margin: 0 auto;
 }
 .ponto-verde {
-width: 12px;
-height: 12px;
+width: 15px;
+height: 15px;
 border-radius: 5px;
 position: absolute;
 display: flex;
 justify-content: space-between;
 align-items:flex-end;
-left: 25%;
-top: 38%;
+left: 33%;
+top: 24%;
 }
 
