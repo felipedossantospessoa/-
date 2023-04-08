@@ -15,17 +15,17 @@
 }
 .logo-paulista {
   position: fixed;
-  top: -5%;
-  right: 13%;
+  top: -10%;
+  right: 42%;
   border-radius: 100%;
 }
 
 input { 
-  height: 15px;
-  width: 80px;
+  height: 20px;
+  width: 105px;
   position: fixed;
   top:35%;
-  right: 40%;
+  right: 52%;
   z-index: 999;
   
 }
@@ -34,21 +34,21 @@ ol {
   flex-direction: column;
   position: fixed;
   position: fixed;
-  right: 48%;
-  top: 40%;
+  right: 53%;
+  top: 39%;
   z-index: 999;
-  font-size: 12px;
+  font-size: 18px;
   
 }
 .whats {
-  right: 8%;
+  right: 39%;
   top: 30%;
   position: fixed; 
   z-index: 999;
 }
 .instagram {
-  right: 3%;
-  top: 24%;
+  right: 38%;
+  top: 25%;
   position: fixed;
   z-index: 999;
 }
