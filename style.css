@@ -1,171 +1,66 @@
 *{
-margin: 2px;
-padding: 0;
-box-sizing: border-box;
-text-decoration: none;
+  margin: 2px;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  }
+  body {
+  font-size: 100%;
+  background: white;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  border: 20px;
+  display: flex;
+}
+.logo-paulista {
+  position: fixed;
+  top: -15%;
+  right: 35%;
+  border-radius: 100%;
 }
 
-
-
-p {
-color:green;
-font-style: var();
+input { 
+  height: 15px;
+  width: 100px;
+  position: fixed;
+  top: 60%;
+  right: 48%;
+  z-index: 999;
+  
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-@media screen and  (max-width: 768px) {}
-
-.search-button {
-height: 20px;
-width: 20px;
-border-radius: 25%;
-display: flex;
-justify-items: center;
-align-items: center;
-background: rgb(136, 136, 145);
-transition: 0.5s;
+ol {
+  flex-direction: column;
+  position: fixed;
+  position: fixed;
+  right: 50%;
+  top: 64%;
+  z-index: 999;
+  
+}
+.whats {
+  right: 37%;
+  top: 42%;
+  position: fixed; 
+  z-index: 999;
+}
+.instagram {
+  right: 32%;
+  top: 42%;
+  position: fixed;
+  z-index: 999;
 }
 
-.search-box:hover > .search-txt {
-width: 90px;
-height: 10px;
-padding: 0 6px;
+img {
+  border-radius: 10%;
+  
 }
-
-.search-box:hover > .search-button{
-background: rgb(221, 214, 214);
-}
-.search-txt {
-border-radius: 3px;
-border: none;
-background: black;
-outline: none;
-padding: 0;
-font-size: 13px;
-color:#fff;
-width: 0;
-transition: 2.5s;
-height: 25x;
-width: none;
-}
-
-.search-box {
-position: absolute;
-background:none;
-border-radius: 1px;
-display: flex;
-justify-content: space-between;
-align-items: center;
-height: 20px;
-padding: 10px;
-right: 50%;
-left: 60%;
-top: 25%;
-font-size: 20px;
-
-}
-body {
-font-size: 100%;
-background: black;
-margin: 0;
-height: 100vh;
-width: 100vw;
-}
-
-.cabecalho {
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: flex-end;
-padding: 0;
-height: 140px;
-margin: 5px;
-
-}
-
-.cabecalho-imagens {
-display: flex;
-justify-content: center;
-width: 330px;
-height: 100px;
-padding: 0;
-margin-top: 10px;
-
-}
-
-.cabecalho-1 {
-display: flex;
-gap: 10px;
-font-size: 9px;
-color: white;
-bottom: auto;
-margin-top: 10px;
-align-items: center;
-}
-
-.cabecalho-1-1:hover {
-background-color: rgba(250, 241, 241, 0.149);
-border-radius: 40px;
-box-shadow: 3px 5px 3px rgb(16, 196, 0);
-border: 1px solid rgb(16, 196, 0);
-}
-.cabecalho-1-2:hover {
-background-color: rgba(250, 241, 241, 0.149);
-border-radius: 40px;
-box-shadow: 3px 5px 3px rgb(255, 69, 143);
-border: 1px solid rgb(255, 69, 143);
-}
-.cabecalho-1-3:hover {
-background-color: rgba(250, 241, 241, 0.149);
-border-radius: 40px;
-box-shadow: 3px 5px 3px white;
-border: 1px solid white;
-}
-.conteudo {
-color: white;
-font-size: 15px;
-border-top: 0.4px solid #fff; 
-padding: 10px;
-}
-
-.conteudo-nomes {
-font-size: 18px;
-gap: 5px;
-margin-top: 1px;
-padding: 0px;
-
-
-}
-
-.rodape {
-padding: 32px;
-border-top: 0.4px solid white;
-}
-
-.conteudo-titulo {
-display: block;
-margin: 0 auto;
-}
-.ponto-verde {
-width: 15px;
-height: 15px;
-border-radius: 5px;
-position: absolute;
-display: flex;
-justify-content: space-between;
-align-items:flex-end;
-left: 39%;
-top: 29%;
-}
-
+    
+  
+  p {
+  color:green;
+  font-style: var();
+  }
+  
+  
