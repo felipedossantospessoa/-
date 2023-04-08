@@ -28,3 +28,17 @@ body {
   
 }
 
+ol {
+ font-size: 18px;
+ position: absolute;
+ top: 55%;
+ right: 75%;
+}
+input {
+  width: 100px;
+  height: 18px;
+  top: 50%;
+  right: 74%;
+  position: static;
+  position: fixed;
+}
