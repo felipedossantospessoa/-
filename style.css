@@ -22,10 +22,9 @@ header {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-  padding: 15px;
-  min-width: 320px;
+  padding: 0px;
+  min-width: 0px;
   max-width: 900px;
-  
 }
 
 header img {
@@ -34,9 +33,24 @@ header img {
 }
 
 header nav {
-  display: flex;
   justify-content: space-around;
   flex-direction: column;
+  min-width: 0px;
+  max-width: 900px;
+}
+
+ul {
+  min-width: 0px;
+  max-width: 900px;
+  font-size: 18px;
+}
+
+.input-1 {
+  min-width: 0px;
+  max-width: 900px;
+}
+
+nav {
   min-width: 0px;
   max-width: 900px;
 }
