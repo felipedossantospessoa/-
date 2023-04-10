@@ -24,7 +24,7 @@ header {
   padding: 0px;
   min-width: 0px;
   max-width: 900px;
-  
+  margin-bottom: 40px;
 }
 
 header img {
@@ -49,6 +49,7 @@ ul {
 .input-1 {
   min-width: 0px;
   max-width: 900px;
+  width: 100px;
 }
 
 nav {
