@@ -63,10 +63,18 @@ ul {
   width: 149px;
 }
 
+h4 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px rgb(88, 85, 85);
+  text-align: right;
+  margin: 0 10px 10px 0;
+}
+
 h1 {
   color: white;
-  text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkgreen;
+  text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px rgb(46, 47, 46);
   font-size: 19px;
+  margin: 10px 0 0 0;
 
 }
 
