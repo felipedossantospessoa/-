@@ -16,6 +16,10 @@ body {
 
 }
 
+main {
+ margin-block-start: 100px;
+}
+
 header {
   display: flex;
   flex-direction: row;
@@ -45,6 +49,9 @@ ul {
   min-width: 0px;
   max-width: 900px;
   font-size: 18px;
+  width: 150px;
+  overflow: hidden;
+  height: 200px;
 }
 
 .input-1 {
