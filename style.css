@@ -51,13 +51,15 @@ ul {
   font-size: 18px;
   width: 150px;
   overflow: hidden;
+  overflow: scroll;
   height: 200px;
+  border: 0.4px solid rgb(98, 96, 96);
 }
 
 .input-1 {
   min-width: 0px;
   max-width: 900px;
-  width: 100px;
+  width: 149px;
 }
 
 nav {
