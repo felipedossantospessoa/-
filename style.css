@@ -62,6 +62,11 @@ ul {
   width: 149px;
 }
 
+h1 {
+  font-size: 19px;
+  color: rgb(77, 78, 79);
+}
+
 nav {
   min-width: 0px;
   max-width: 900px;
