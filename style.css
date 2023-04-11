@@ -1,6 +1,6 @@
 *{
   margin: 0;
-  padding: 5px;
+  padding:8px;
   }
 
 body {
@@ -80,10 +80,14 @@ h1 {
   margin: 10px 0 0 0;
   width: 150px;
   text-align: center;
+  padding: 0;
 
 }
 h6 {
-  width: 160px;
+  width: 150px;
+  text-align: center;
+  padding: 0;
+  margin: 7px 0px 7px 0;
 }
 
 nav {
