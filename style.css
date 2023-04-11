@@ -23,6 +23,9 @@ main {
  flex-direction: row;
  display: flex;
  gap: 600px ;
+ min-width: 320px;
+ max-width: 900px;
+
 }
 
 header {
