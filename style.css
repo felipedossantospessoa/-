@@ -20,6 +20,9 @@ main {
  margin-block-start: 0px;
  border-top: 0.2px solid black;
  padding: 0;
+ flex-direction: row;
+ display: flex;
+ gap: 100px ;
 }
 
 header {
@@ -93,4 +96,36 @@ h6 {
 nav {
   min-width: 0px;
   max-width: 900px;
+}
+
+.div1 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  padding: 0;
+  margin: 15px 0 0 0;
+  
+}
+.div2 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  padding: 0;
+  margin: 15px 0 0 0;
+  
+}
+.div3 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  padding: 0;
+  margin: 15px 0 0 0;
+  
+}
+.img-anuncio {
+  float: right;
+}
+
+.conteiner1 {
+  padding: 0;
 }
