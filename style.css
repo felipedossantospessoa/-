@@ -22,7 +22,7 @@ main {
  padding: 0;
  flex-direction: row;
  display: flex;
- gap: 100px ;
+ gap: 600px ;
 }
 
 header {
