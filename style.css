@@ -17,7 +17,8 @@ body {
 }
 
 main {
- margin-block-start: 100px;
+ margin-block-start: 10px;
+ border-top: 0.4px solid black;
 }
 
 header {
@@ -64,7 +65,7 @@ ul {
 
 h1 {
   font-size: 19px;
-  color: rgb(77, 78, 79);
+  color: black;
 }
 
 nav {
